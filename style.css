@@ -3,3 +3,31 @@
     margin: 0;
     padding: 0;
 }
+
+body {
+    font-family: 'Fredoka', sans-serif;
+    background-color: black;
+    color: white;
+}
+
+.container {
+    max-width: 1770px;
+    margin: auto;
+}
+
+h2,
+p {
+    margin-bottom: 1rem;
+}
+
+.left img {
+    height: 8.5rem;
+    float: left;
+    margin-right: 1rem;
+}
+
+.right img {
+    height: 8.5rem;
+    float: right;
+    margin-left: 1rem;
+}
